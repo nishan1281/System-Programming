@@ -1,0 +1,37 @@
+# Compiled files
+*.o
+*.out
+*.exe
+
+# Object files
+*.obj
+
+# C++ compiled output
+*.gch
+*.pch
+
+# Dependency files
+*.d
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled executables
+*.app
+
+# Build directory
+build/
